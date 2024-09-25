@@ -32,11 +32,3 @@ npm install // pnpm
 ```
 npm run dev
 ```
-
-## :link: Demo
-
--   <a target="_blank" href="https://ucfx.github.io/TIC-TAC-TOE-GAME/"> Click Here </a> to see and play by yourself a demo of the game.
-
-## :mailbox: Contact
-
--   <a target="_blank" href="mailto:ucefhammadi@gmail.com">E-mail</a>
